@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not funny
+- 
 ![](https://komarev.com/ghpvc/?username=WeissbrotDE&color=ff69b4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeissbrotDE&count_private=true&show_icons=true%custom_title=Stats&theme=radical)
